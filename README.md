@@ -6,4 +6,4 @@ Telegram-YT is a bot that returns search result from YouTube.
 
 Check it on Telegram https://t.me/searchYTubeBot
 
-<img src="png/botmessage.png">
+<img src="png/botmessage.PNG">
