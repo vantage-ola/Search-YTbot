@@ -1,6 +1,6 @@
-# Telegram-YT
+# SearchYT
 
-Telegram-YT is a bot that returns search result from YouTube.
+SearchYT is a telegram bot that returns search result from YouTube.
 
 ## Usage
 
